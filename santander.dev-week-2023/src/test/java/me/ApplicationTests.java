@@ -1,4 +1,4 @@
-package me.dio.santander.dev_week_2023;
+package me;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
